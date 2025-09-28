@@ -23,7 +23,8 @@
 🔹 ☁️ Exploring **Cloud Computing**  
 🔹 🏆 Solving challenges on **CodeChef**: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
 🔹 💼 Connect with me on **LinkedIn**: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)  
-🔹 📸 Follow me on **Instagram**: [a_manoj_.07](https://instagram.com/a.manoj_.07)  
+🔹 📸 Follow me on **Instagram**: [a_manoj_.07
+](https://instagram.com/a.manoj_.07)  
 
 ---
 
