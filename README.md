@@ -1,8 +1,6 @@
 <!-- Profile Header with Photo -->
 <p align="center">
-  <img src="https://github.com/amanojkumar07/amanojkumar07/blob/main/profile.jpg" 
-       width="200" height="200" style="border-radius: 50%; box-shadow: 0px 0px 20px #00C4FF;" 
-       alt="Manojkumar Profile Photo"/>
+ 
 </p>
 
 <h1 align="center">✨ Hi, I'm Manojkumar ✨</h1>
