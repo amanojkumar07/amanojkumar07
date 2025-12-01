@@ -50,15 +50,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=amanojkumar07&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
----
-
-## 🎶 Fun Section
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31iwj5grjqq2h3bvbikqdrfwyqpa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=00C4FF&bar_color_cover=true" />
-</p>
-
----
-
 ## 📬 Connect With Me
 <p align="center">
   <a href="https://instagram.com/a_manoj_.07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
