@@ -61,7 +61,7 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/a.manoj_.07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/a_manoj_.07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manoj-kumar-a-626084344"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/manoj_07_30"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </p>
