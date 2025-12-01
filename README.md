@@ -15,7 +15,9 @@
 
 ## 🌟 About Me  
 🔹 🎓 2nd year **AI & DS student** at Velammal Engineering College  
-🔹 🐍 Currently learning **Python** 🔹 ☁️ Exploring **Cloud Computing** 🔹 🏆 Solving challenges on **CodeChef**: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
+🔹 🐍 Currently learning **Python** 
+🔹 ☁️ Exploring **Cloud Computing** 
+🔹 🏆 Solving challenges on **CodeChef**: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
 🔹 🧠 Solving challenges on **LeetCode**: [amanojkumar3007](https://leetcode.com/amanojkumar3007/)  
 🔹 💻 Solving challenges on **HackerRank**: [@amanojkumar991](https://www.hackerrank.com/amanojkumar991)  
 🔹 💼 Connect with me on **LinkedIn**: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)  
