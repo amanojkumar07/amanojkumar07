@@ -1,4 +1,3 @@
-<!-- Profile Header with Photo -->
 <p align="center">
  
 </p>
@@ -8,7 +7,6 @@
 
 ---
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student+at+Velammal+Engineering+College;Python+%7C+Cloud+Computing+%7C+Problem+Solver;Always+Curious+%7C+Always+Learning;Building+Step+by+Step+into+Tech+World" />
 </p>
@@ -17,9 +15,9 @@
 
 ## 🌟 About Me  
 🔹 🎓 2nd year **AI & DS student** at Velammal Engineering College  
-🔹 🐍 Currently learning **Python**  
-🔹 ☁️ Exploring **Cloud Computing**  
-🔹 🏆 Solving challenges on **CodeChef**: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
+🔹 🐍 Currently learning **Python** 🔹 ☁️ Exploring **Cloud Computing** 🔹 🏆 Solving challenges on **CodeChef**: [manoj_07_30](https://www.codechef.com/users/manoj_07_30)  
+🔹 🧠 Solving challenges on **LeetCode**: [amanojkumar3007](https://leetcode.com/amanojkumar3007/)  
+🔹 💻 Solving challenges on **HackerRank**: [@amanojkumar991](https://www.hackerrank.com/amanojkumar991)  
 🔹 💼 Connect with me on **LinkedIn**: [Manoj Kumar A](https://www.linkedin.com/in/manoj-kumar-a-626084344)  
 🔹 📸 Follow me on **Instagram**: [a_manoj_.07
 ](https://www.instagram.com/a_manoj_.07/)  
@@ -64,6 +62,8 @@
   <a href="https://instagram.com/a_manoj_.07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manoj-kumar-a-626084344"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/manoj_07_30"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+  <a href="https://leetcode.com/amanojkumar3007/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/amanojkumar991"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 ---
