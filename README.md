@@ -1,6 +1,7 @@
 <p align="center">
  
 </p>
+<centre><img src="images/manoj.pic.jpg"width="200"hieght="200"></centre>
 
 <h1 align="center">✨ Hi, I'm Manojkumar ✨</h1>
 <h3 align="center">AI & DS Student | Tech Explorer | Lifelong Learner</h3>
