@@ -46,10 +46,7 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanojkumar07&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
-</p>
+
 
 ## 📬 Connect With Me
 <p align="center">
