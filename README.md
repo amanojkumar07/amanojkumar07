@@ -1,9 +1,9 @@
 <p align="center">
  
 </p>
-<centre><img src="https://w0.peakpx.com/wallpaper/497/710/HD-wallpaper-marvel-laptop-marvel-logo.jpg" align="center"></centre>
+<center><img src="https://w0.peakpx.com/wallpaper/497/710/HD-wallpaper-marvel-laptop-marvel-logo.jpg" align="center" height=250px width="500px"></center>
 
-<h1 align="center">✨ Hi, I'm Manojkumar ✨</h1>
+<h1 align="center">🥸--- Hi, I'm Manojkumar ---🥸</h1>
 <h3 align="center">AI & DS Student | Tech Explorer | Lifelong Learner</h3>
 
 ---
