@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[IMAGE_URL](https://w0.peakpx.com/wallpaper/497/710/HD-wallpaper-marvel-laptop-marvel-logo.jpg)" width="60%" />
+  <img src="https://w0.peakpx.com/wallpaper/497/710/HD-wallpaper-marvel-laptop-marvel-logo.jpg" width="60%" />
 </p>
 
 <h1 align="center">🥸--- Hi, I'm Manojkumar ---🥸</h1>
