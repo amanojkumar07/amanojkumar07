@@ -4,6 +4,7 @@
 
 <h1 align="center">🥸--- Hi, I'm Manojkumar ---🥸</h1>
 <h3 align="center">AI & DS Student | Tech Explorer | Lifelong Learner</h3>
+<h1 align="center">a <b color:"red;">MARVEL</b> fan</h1>
 
 
 ---
