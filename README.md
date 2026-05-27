@@ -143,14 +143,6 @@
 
 ---
 
-# 🎬 FUN ANIMATION
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/animation.gif" width="450"/>
-</p>
-
----
-
 <h3 align="center">
   🚀 Consistency • Learning • Growth 🚀
 </h3>
