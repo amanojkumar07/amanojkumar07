@@ -1,45 +1,35 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Manojkumar;AI+%26+DS+Student+%7C+Tech+Explorer;Future+Full+Stack+Developer;Cloud+%2B+AI+Enthusiast;Marvel+Fan+🦸" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manojkumar;AI+%26+Data+Science+Student;Future+Software+Engineer;Problem+Solver+%7C+Tech+Explorer;Building+My+Journey+One+Step+at+a+Time" />
 </h1>
 
 <h3 align="center">
-  🚀 AI & DS Student | Problem Solver | Tech Explorer | Lifelong Learner
+  AI & DS Student • Python Learner • Cloud Enthusiast • DSA Explorer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanojkumar07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <a href="https://github.com/amanojkumar07">
+    <img src="https://komarev.com/ghpvc/?username=amanojkumar07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-# 🥸 ABOUT ME
+# 👨‍💻 ABOUT ME
 
 </div>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨‍🎓 Education
-- 🎓 2nd Year **AI & DS Student**
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 Studying at **Velammal Engineering College**
-
-### 🌱 Currently Learning
-- 🐍 Python Programming
-- ☁️ Cloud Computing
-- 🌐 Web Development
-- 💡 Problem Solving & DSA
-
-### 🎯 Goals
-- 🚀 Become a skilled Full Stack Developer
-- 🧠 Master DSA for placements
-- ☁️ Explore AI + Cloud Technologies
-- 💼 Crack a great tech placement
-
-### ⚡ Fun Side
-- 🦸 Huge **MARVEL Fan**
-- 🎬 Love tech + creativity combinations
-- 🔥 Believe in learning step-by-step consistently
+- 🌱 Currently learning **Python, DSA & Cloud Computing**
+- 💻 Exploring **Web Development & Problem Solving**
+- 🚀 Interested in **AI, Software Development & Emerging Technologies**
+- 🧠 Practicing coding consistently to improve logical thinking
+- ⚡ Passionate about technology, innovation, and continuous learning
+- 🦸 Marvel Fan who enjoys creativity + technology together
 
 <br><br>
 
@@ -48,7 +38,7 @@
 # 🚀 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
@@ -83,11 +73,11 @@
 
 <div align="center">
 
-| Platform | Username |
+| Platform | Profile |
 |---|---|
-| 🏆 CodeChef | **manoj_07_30** |
-| 🧠 LeetCode | **amanojkumar3007** |
-| 💻 HackerRank | **amanojkumar991** |
+| 🏆 CodeChef | [manoj_07_30](https://www.codechef.com/users/manoj_07_30) |
+| 🧠 LeetCode | [amanojkumar3007](https://leetcode.com/amanojkumar3007/) |
+| 💻 HackerRank | [amanojkumar991](https://www.hackerrank.com/amanojkumar991) |
 
 </div>
 
@@ -96,14 +86,18 @@
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanojkumar07&theme=tokyo-night&hide_border=true&area=true"/>
@@ -111,15 +105,37 @@
 
 ---
 
-# 🏆 ACHIEVEMENTS & FOCUS
+# 🏅 LEARNING JOURNEY
 
 <p align="center">
-  🧠 DSA Learner • ☁️ Cloud Explorer • 🚀 Future Developer • 🔥 Consistency Builder
+  <img src="https://github-profile-trophy.vercel.app/?username=amanojkumar07&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 🎬 DAILY MOTIVATION
+# ⚡ CURRENT FOCUS
+
+<div align="center">
+
+🔹 Data Structures & Algorithms  
+🔹 Python Development  
+🔹 Cloud Computing  
+🔹 Web Development  
+🔹 Improving Problem Solving Skills  
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ✨ RANDOM DEV QUOTE
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -127,15 +143,7 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
-# ⚡ FUN ANIMATION
+# 🎬 FUN ANIMATION
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/animation.gif" width="450"/>
@@ -144,5 +152,5 @@
 ---
 
 <h3 align="center">
-✨ “Building myself step by step into the tech world.” ✨
+  🚀 Consistency • Learning • Growth 🚀
 </h3>
