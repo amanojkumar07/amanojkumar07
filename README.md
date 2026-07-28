@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI & DS Student • Python Learner • Cloud Enthusiast • DSA Explorer
+  AI & DS Student • quick Python Learner • Cloud Enthusiast • DSA Explorer
 </h3>
 
 <p align="center">
