@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI & DS Student • Python and Java Learner • Cloud Enthusiast • DSA Explorer
+AI & DS Student • Python Learner • Web Developer • DSA Explorer
 </h3>
 
 <p align="center">
@@ -14,64 +14,62 @@
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
 
-# 👨‍💻 ABOUT ME
-
-</div>
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 🏫 Studying at **Velammal Engineering College**
-- 🌱 Currently learning **Python, DSA & Cloud Computing**
+- 🌱 Currently learning **Python, DSA & Full Stack Development**
 - 💻 Exploring **Web Development & Problem Solving**
 - 🚀 Interested in **AI, Software Development & Emerging Technologies**
 - 🧠 Practicing coding consistently to improve logical thinking
 - ⚡ Passionate about technology, innovation, and continuous learning
-- 🦸 Marvel Fan who enjoys creativity + technology together
+- 🦸 Marvel fan who enjoys creativity + technology
 
 <br><br>
 
 ---
 
-# 🚀 TECH STACK
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,git,github,vscode,linux&theme=dark" />
+
 </p>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manoj-kumar-a-626084344">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://www.instagram.com/a_manoj_.07/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/manoj-kumar-a-626084344">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.codechef.com/users/manoj_07_30">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-  </a>
+<a href="https://www.instagram.com/a_manoj_.07/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/amanojkumar3007/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+<a href="https://leetcode.com/amanojkumar3007/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-  <a href="https://www.hackerrank.com/amanojkumar991">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
+<a href="https://www.codechef.com/users/manoj_07_30">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/amanojkumar991">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 💻 CODING PROFILES
-
-<div align="center">
+# 💻 Coding Profiles
 
 | Platform | Profile |
 |---|---|
@@ -79,30 +77,59 @@
 | 🧠 LeetCode | [amanojkumar3007](https://leetcode.com/amanojkumar3007/) |
 | 💻 HackerRank | [amanojkumar991](https://www.hackerrank.com/amanojkumar991) |
 
-</div>
-
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-# ⚡ CURRENT FOCUS
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true"/>
 
-🔹 Data Structures & Algorithms  
-🔹 Python Development  
-🔹 Cloud Computing  
-🔹 Web Development  
-🔹 Improving Problem Solving Skills  
-
-</div>
+</p>
 
 ---
- 
-<h3 align="center"> 
-  🚀 Consistency • Learning • Growth 🚀 
-</h3> 
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanojkumar07&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# ⚡ Current Focus
+
+<p align="center">
+
+🔹 Data Structures & Algorithms
+
+🔹 Python Development
+
+🔹 Full Stack Web Development
+
+🔹 Artificial Intelligence
+
+🔹 Cloud Computing
+
+🔹 Improving Problem Solving Skills
+
+</p>
+
+---
+
+<h3 align="center">
+🚀 Consistency • Learning • Growth 🚀
+</h3>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amanojkumar07/amanojkumar07/output/github-contribution-grid-snake.svg" />
+</p>
