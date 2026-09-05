@@ -86,27 +86,8 @@
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-
-
----
-
-# 🏅 LEARNING JOURNEY
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanojkumar07&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 # ⚡ CURRENT FOCUS
@@ -122,17 +103,6 @@
 </div>
 
 ---
-
-
----
-
-# ✨ RANDOM DEV QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> 
-</p> 
- 
---- 
  
 <h3 align="center"> 
   🚀 Consistency • Learning • Growth 🚀 
