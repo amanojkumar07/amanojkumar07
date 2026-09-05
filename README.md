@@ -97,11 +97,7 @@
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanojkumar07&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
 
 ---
 
