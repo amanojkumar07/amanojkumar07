@@ -88,7 +88,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
----
 
 # ⚡ CURRENT FOCUS
 
