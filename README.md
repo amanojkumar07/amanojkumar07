@@ -89,12 +89,6 @@ AI & DS Student • Python Learner • Web Developer • DSA Explorer
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanojkumar07&theme=tokyo-night&hide_border=true"/>
-
----
-
 # ⚡ Current Focus
 
 <p align="center">
