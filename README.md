@@ -71,10 +71,10 @@ AI & DS Student • Python Learner • Web Developer • DSA Explorer
 
 # 💻 Coding Profiles
 
-| Platform | Profile |
-|---|---|
-| 🏆 CodeChef | [manoj_07_30](https://www.codechef.com/users/manoj_07_30) |
-| 🧠 LeetCode | [amanojkumar3007](https://leetcode.com/amanojkumar3007/) |
+| Platform      | Profile                                                     |
+| ------------- | ----------------------------------------------------------- |
+| 🏆 CodeChef   | [manoj_07_30](https://www.codechef.com/users/manoj_07_30)   |
+| 🧠 LeetCode   | [amanojkumar3007](https://leetcode.com/amanojkumar3007/)    |
 | 💻 HackerRank | [amanojkumar991](https://www.hackerrank.com/amanojkumar991) |
 
 ---
@@ -83,8 +83,35 @@ AI & DS Student • Python Learner • Web Developer • DSA Explorer
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=amanojkumar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanojkumar07&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=amanojkumar07&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amanojkumar07&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
