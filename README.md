@@ -137,7 +137,7 @@ AI & DS Student • Python Learner • Web Developer • DSA Explorer
 ---
 
 <h3 align="center">
-🚀 Consistency • Learning • Growth 🚀
+🚀 Consistency • Learn code • Growth 🚀
 </h3>
 ---
 
